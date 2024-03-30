@@ -36,6 +36,9 @@ Enhance user engagement by recommending promotions tailored to individual prefer
 
 ## Project Map
 For a visual representation of the project, refer to the local project map `map.png` included in this repository.
+<div align="center">
+    <img src="map.png" width="400px"</img> 
+</div>
 
 ## Conclusion
 These assignments aim to improve user experience and engagement on Wongnai's promotion section through spam detection and personalized recommendations.
