@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "rl-improve-promotion-section"
+version = "0.1.0"
+description = ""
+authors = ["Suphakrit Lertkitcharoenvong, Zixiao Wang"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+ipykernel = "^6.29.4"
+ipython = "^8.23.0"
+matplotlib = "^3.8.3"
+matplotlib-inline = "^0.1.6"
+numpy = "^1.26.4"
+opencv-python = "^4.9.0.80"
+pandas = "^2.2.1"
+scikit-learn = "^1.4.0"
+torch = "^2.2.2"
+jupyter-client = "^8.6.1"
+pillow = "^10.2.0"
+pyparsing = "^3.1.2"
+sympy = "^1.12"
+gym = "^0.26.2"
+optuna = "^3.6.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
