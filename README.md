@@ -10,8 +10,9 @@ You can explore promotions in our system [here](https://www.wongnai.com/promotio
 
 ## Virtual Environments
 To use the virtual environment, perform these two steps:
-1. In the CLI, run the following command `py -m poetry shell`
-2. Select the VSCode Kernel to be `.venv`
+1. In the CLI, run the following command `py -m poetry config virtualenvs.in-project true`
+2. Run `py -m poetry install`
+3. Select the VSCode Kernel to be `.venv`
 
 ## Assignments
 As a Data Scientist at Wongnai, you are tasked with completing two sub-assignments within a limited time frame of 7 days while ensuring optimal results.
