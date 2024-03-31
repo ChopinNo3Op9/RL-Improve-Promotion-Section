@@ -40,6 +40,9 @@ For a visual representation of the project, refer to the local project map `map.
     <img src="map.png" width="400px"</img> 
 </div>
 
+## Project Working Tools
+1. Google Cloud (https://drive.google.com/drive/u/1/folders/17CYqR1HEH7c-nXpNSV_3hrtgbfNegRzF)
+
 ## Conclusion
 These assignments aim to improve user experience and engagement on Wongnai's promotion section through spam detection and personalized recommendations.
 
